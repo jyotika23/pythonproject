@@ -2,7 +2,7 @@ on:
   push:
     branches:
       - main
- 
+
 jobs:
   execute:
     uses: jyotika23/project/.github/workflows/main.yml@main
